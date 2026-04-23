@@ -10,7 +10,6 @@
         <p>Monday, September 19th</p>
         <ol>
             <li>Write a blog post</li>
-            <li>Go to the bank</li>
             <li>Study for exams</li>
             <li>Renew web hosting account and domain name</li>
             <li>Learn something new</li>
